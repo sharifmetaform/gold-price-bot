@@ -263,4 +263,5 @@ class GoldPriceBot:
 if __name__ == "__main__":
     bot = GoldPriceBot()
     logging.info("🚀 ربات قیمت‌گذاری طلا شروع به کار کرد")
+
     bot.run()
